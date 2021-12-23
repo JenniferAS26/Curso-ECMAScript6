@@ -1,0 +1,19 @@
+{
+  "name": "curso-ecmascript6",
+  "version": "1.0.0",
+  "description": "Entendiendo ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenniferAS26/Curso-ECMAScript6.git"
+  },
+  "author": "Jennifer Alarcon Serna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenniferAS26/Curso-ECMAScript6/issues"
+  },
+  "homepage": "https://github.com/JenniferAS26/Curso-ECMAScript6#readme"
+}
